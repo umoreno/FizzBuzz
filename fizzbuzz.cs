@@ -8,7 +8,7 @@ void Main()
 	test.ReturnFizzBuzzMultiple();
 	test.UseFizzBuzzBazzMultipleWithTruePredicate();
 	test.UseFizzBuzzBazzMultipleWithFalsePredicate();
-    //Comment
+    //Comment added for master but first added as a Hot fix.
 }
 
 // Define other methods and classes here
