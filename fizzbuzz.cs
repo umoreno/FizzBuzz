@@ -1,3 +1,6 @@
+/*
+ * Adding a comment to the main function where 
+*/
 void Main()
 {
 	var test = new TestClass();
